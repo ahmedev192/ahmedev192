@@ -1,13 +1,17 @@
 <!-- Profile README for ahmedev192 -->
 
 <h1 align="center">Hi 👋, I'm Ahmed Mahmoud</h1>
-<h3 align="center">A passionate Software Engineer specialized in .NET and backend development</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Ahmed+Mahmoud;Backend+.NET+Developer;Building+APIs+%7C+Django+%7C+React+%7C+SQL;Passionate+about+clean+architecture" />
+</p>
 
 ---
 
 ### 🌐 Connect with me
-- Portfolio: [egahmed.netlify.app](https://egahmed.netlify.app/)
-- LinkedIn: [linkedin.com/in/eg-ahmed192](https://www.linkedin.com/in/eg-ahmed192)
+
+- 🌍 Portfolio: [egahmed.netlify.app](https://egahmed.netlify.app/)
+- 💼 LinkedIn: [linkedin.com/in/eg-ahmed192](https://www.linkedin.com/in/eg-ahmed192)
 
 ---
 
@@ -35,14 +39,18 @@
 
 ---
 
-### 📌 Featured Projects
+### 🚀 Featured Projects
 
-- 🔧 [.NET REST APIs](https://github.com/ahmedev192) — Backend APIs with Identity, EF Core, and C#
-- 🌍 [Portfolio Website](https://egahmed.netlify.app/) — Built with Lovable AI
+- 🔗 [Portfolio Website](https://egahmed.netlify.app/)  
+  Personal portfolio showcasing my skills, resume, and projects.
+
+- 📦 [.NET Backend API Boilerplate](https://github.com/ahmedev192)  
+  RESTful API using .NET Core, Entity Framework, Identity, and Clean Architecture.
+
+> 👉 Browse more at [github.com/ahmedev192?tab=repositories](https://github.com/ahmedev192?tab=repositories)
 
 ---
 
-<!-- Optional footer -->
 <p align="center">
   ⚡ Keep coding. Keep building. Keep learning.
 </p>
