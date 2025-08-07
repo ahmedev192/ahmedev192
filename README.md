@@ -55,6 +55,8 @@
   ⚡ Keep coding. Keep building. Keep learning.
 </p>
 
+---
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7b0e1d97-79d2-4a2f-adae-ea2770ecf40d" />
 
 
 
