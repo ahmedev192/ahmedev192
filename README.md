@@ -10,7 +10,7 @@
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=600&lines=Backend+.NET+Developer;RESTful+API+Design+%26+Scalability;Clean+Architecture+%7C+SOLID+Principles;SQL+%7C+EF+Core+%7C+Security;Always+Learning+%26+Building"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=600&lines=Backend+.NET+Developer;RESTful+API+Design+%26+Scalability;Clean+Architecture+%7C+SOLID+Principles;Secure+%26+Maintainable+Systems;Always+Learning+%26+Building"
   />
 </p>
 
@@ -34,32 +34,6 @@
 
 ---
 
-## 🛠️ Tech Stack
-
-**Backend**
-- .NET / ASP.NET Core
-- REST APIs
-- Entity Framework Core
-- Authentication & Authorization (JWT, Identity)
-
-**Databases**
-- SQL Server
-- PostgreSQL
-- Database design & optimization
-
-**Frontend (Integration Level)**
-- React
-- Django (API integrations)
-
-**Tools & Practices**
-- Clean Architecture
-- SOLID Principles
-- Git & GitHub
-- Docker (basics)
-- CI/CD concepts
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -79,41 +53,4 @@
 
 <p align="center">
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedev192&theme=tokyonight" 
-  />
-</p>
-
----
-
-## 🏆 Achievements
-
-<p align="center">
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=ahmedev192&theme=gruvbox&no-frame=true&row=1" 
-  />
-</p>
-
----
-
-## 🚀 Featured Work
-
-### 🌐 Portfolio Website
-🔗 https://egahmed.netlify.app  
-Personal website showcasing skills, experience, and projects.
-
-### 📦 .NET Backend API Boilerplate
-🔗 https://github.com/ahmedev192  
-Production-ready REST API structure using:
-- ASP.NET Core
-- Entity Framework Core
-- Clean Architecture
-- Authentication & Authorization
-
-👉 Explore more projects here:  
-🔗 https://github.com/ahmedev192?tab=repositories
-
----
-
-<p align="center">
-  ⚡ Build systems that scale. Write code that lasts.
-</p>
+    src="https://github-readme-streak-stats.herokuapp.com/?use
